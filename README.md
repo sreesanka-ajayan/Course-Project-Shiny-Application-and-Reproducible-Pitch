@@ -4,6 +4,6 @@ Github Repository: https://github.com/sreesanka-ajayan/Course-Project-Shiny-Appl
 
 Shiny Application: https://r2po.shinyapps.io/course_project_shiny_appreproducible_pitch/
 
-Ioslide Presentation:
+Ioslide Presentation:https://sreesanka-ajayan.github.io/Course-Project-Shiny-Application-and-Reproducible-Pitch/presentation.html#1
 
 Description Using the data provided by Galton Families dataset, we fit a linear model to predict a child's height based on the gender and parent's average height.
