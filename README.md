@@ -2,7 +2,7 @@ Developing Data Products Course - Course Project: Shiny Application and Reproduc
 
 Github Repository: https://github.com/sreesanka-ajayan/Course-Project-Shiny-Application-and-Reproducible-Pitch
 
-Shiny Application:
+Shiny Application: https://r2po.shinyapps.io/course_project_shiny_appreproducible_pitch/
 
 Ioslide Presentation:
 
